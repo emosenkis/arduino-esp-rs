@@ -5,6 +5,7 @@ authors = ["Eitan Mosenkis <eitan@mosenkis.net>"]
 repository = "https://github.com/emosenkis/arduino-esp-rs"
 description = "[EXPERIMENTAL] Generated Rust bindings for ESP8266 Arduino library."
 keywords = ["esp8266", "arduino"]
+license = "MIT"
 
 [dependencies]
 libc = { version = "0.2", default-features = false }
