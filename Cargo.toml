@@ -1,11 +1,7 @@
 [package]
 name = "arduino-esp"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Eitan Mosenkis <eitan@mosenkis.net>"]
-repository = "https://github.com/emosenkis/arduino-esp-rs"
-description = "[EXPERIMENTAL] Generated Rust bindings for ESP8266 Arduino library."
+description = "[DEPRECATED] See https://github.com/emosenkis/esp-rs for replacement."
 keywords = ["esp8266", "arduino"]
 license = "MIT"
-
-[dependencies]
-libc = { version = "0.2", default-features = false }
